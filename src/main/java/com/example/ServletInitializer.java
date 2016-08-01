@@ -14,8 +14,4 @@ public class ServletInitializer extends SpringBootServletInitializer {
 }
 ///asdasdasd
 //test2.2
-<<<<<<< HEAD
-//master 1
-=======
-//test4
->>>>>>> 3fa78bcdf521d8cf36d008aa03dd3eaa7ae877a7
+//,master asdlasodka
